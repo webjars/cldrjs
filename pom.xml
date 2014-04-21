@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>cldrjs</artifactId>
-    <version>0.3.5</version>
+    <version>0.3.6-SNAPSHOT</version>
     <name>cldr.js</name>
     <description>WebJar for cldr.js</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/cldrjs</url>
         <connection>scm:git:https://github.com/webjars/cldrjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cldrjs.git</developerConnection>
-        <tag>cldrjs-0.3.5</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
